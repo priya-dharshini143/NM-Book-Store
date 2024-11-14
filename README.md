@@ -26,10 +26,17 @@ Other: Axios for HTTP requests, JWT for user authentication, bcrypt for password
           MONGO_URI=your-mongodb-uri
           JWT_SECRET=your-jwt-secret
   # Run the server and client:
-  In one terminal, start the server:
+    In one terminal, start the server:
           cd server
           npm start
-  In another terminal, start the client:
+    In another terminal, start the client:
           cd client
           npm run dev
 Visit the App: Open your browser and navigate to http://localhost:5173 for the client.
+
+# Usage
+  1. Register as a new user or log in with existing credentials.
+  2. Browse books by genre, title, or author.
+  3. Add books to your wishlist for future reference.
+  4. Sellers can log in to manage their book listings and view orders.
+  5. Admin access provides control over users and listings.
