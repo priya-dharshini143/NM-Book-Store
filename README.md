@@ -5,9 +5,13 @@ BOOK-STORE  is a full-featured online bookstore web application developed using 
   ->User Authentication: Register, login, and logout functionality with secure password hashing.
   
   ->Book Browsing & Searching: Users can browse books, search by title, author, or genre.
+  
   ->Wishlist & Orders: Users can add books to their wishlist, place orders, and view their order history.
+  
   ->Seller Dashboard: Sellers can add, update, and delete books, and manage incoming orders.
+  
   ->Admin Dashboard: Admins can manage users, view all listings, and oversee application activities.
+  
   ->Responsive Design: Accessible on both desktop and mobile devices.
 
 # Technologies
